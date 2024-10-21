@@ -5,8 +5,11 @@ To study and implement Sorting Algorithm.
 
 # Theory:
 Sorting is a way to arrange elements in a particular order. We will be understand 3 types of sorting which are:
+
 → Selection Sort
+
 → Insertion Sort
+
 → Bubble Sort
 
 
