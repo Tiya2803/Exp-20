@@ -88,6 +88,7 @@ int main()
 
 
 b.
+
 #include <iostream>
 using namespace std;
 
@@ -131,6 +132,7 @@ int main() {
 
 
 c.
+
 #include <iostream>
 using namespace std;
 
@@ -174,6 +176,8 @@ int main()
 }
 
 # Conclusion:
+
 → We learnt about sorting in C++.
+
 → We learnt the use case of the types of sorting in C++.
 
