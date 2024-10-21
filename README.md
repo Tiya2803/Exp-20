@@ -1,8 +1,9 @@
-#Experiment 20
-#Aim:
+# Experiment 20
+
+# Aim:
 To study and implement Sorting Algorithm.
 
-#Theory:
+# Theory:
 Sorting is a way to arrange elements in a particular order. We will be understand 3 types of sorting which are:
 → Selection Sort
 → Insertion Sort
@@ -35,7 +36,7 @@ Check if a swap was made in the current pass.
 If no swaps were made, exit early.
 
 
-#Code:
+# Code:
 
 a.
 
@@ -172,7 +173,7 @@ int main()
   display(data, len);
 }
 
-#Conclusion:
+# Conclusion:
 → We learnt about sorting in C++.
 → We learnt the use case of the types of sorting in C++.
 
