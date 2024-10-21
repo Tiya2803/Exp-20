@@ -42,7 +42,7 @@ If no swaps were made, exit early.
 # Code:
 
 a.
-
+```
 #include <iostream>
 using namespace std;
 
@@ -88,10 +88,10 @@ int main()
   cout << "Selection sorted array:";
   display(data, len);
 }
-
+```
 
 b.
-
+```
 #include <iostream>
 using namespace std;
 
@@ -132,9 +132,10 @@ int main() {
 
     return 0;
 }
-
+```
 
 c.
+```
 
 #include <iostream>
 using namespace std;
@@ -177,7 +178,7 @@ int main()
   cout << "Bubble Sorted array: ";  
   display(data, len);
 }
-
+```
 # Conclusion:
 
 → We learnt about sorting in C++.
