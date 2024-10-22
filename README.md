@@ -181,11 +181,11 @@ int main()
 ```
 # Output:
 a.
-![WhatsApp Image 2024-10-22 at 14 24 51_9d925286](https://github.com/user-attachments/assets/066e0a12-b9de-4317-83e9-4e752ead2bff)
+![WhatsApp Image 2024-10-22 at 14 24 51_9d925286](https://github.com/user-attachments/assets/066e0a12-b9de-4317-83e9-4e752ead2bff) <br>
 b.
-![image](https://github.com/user-attachments/assets/ace629f1-7169-4dfe-874f-68bbde007f47)
+![image](https://github.com/user-attachments/assets/ace629f1-7169-4dfe-874f-68bbde007f47)<br>
 c.
-![image](https://github.com/user-attachments/assets/df275626-0cda-4e69-a3b9-0999f9a5b792)
+![image](https://github.com/user-attachments/assets/df275626-0cda-4e69-a3b9-0999f9a5b792)<br>
 
 # Conclusion:
 
