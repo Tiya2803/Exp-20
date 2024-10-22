@@ -179,6 +179,10 @@ int main()
   display(data, len);
 }
 ```
+# Output:
+
+![WhatsApp Image 2024-10-22 at 14 24 51_9d925286](https://github.com/user-attachments/assets/066e0a12-b9de-4317-83e9-4e752ead2bff)
+
 # Conclusion:
 
 → We learnt about sorting in C++.
